@@ -1,0 +1,13 @@
+{
+  "name": "cra-template-gabriel-queiroz",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "template.json",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
